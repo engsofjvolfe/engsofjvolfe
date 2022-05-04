@@ -3,4 +3,5 @@
 - 🌱 I’m currently learning mandarin, french, c language, thats my first semester on college
 - 💞️ I’m looking to collaborate on: I dont know what i should put here hahaha
 - 📫 How to reach me... i have an instagram account and facebook(jeanco_volfe/Jeanco Volfe, respectively)
+- BTW, i am a musician. I have college degree on music as well!!!
 
