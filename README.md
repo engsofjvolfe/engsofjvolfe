@@ -13,7 +13,7 @@
 ### Well 👋
 I am a software engineering student looking for opportunities and collabaration in projects.
 
-I'm currently learning Kotlin language and i have been creating small android apps for helping brazilian students. 
+I'm currently learning Kotlin language and i have been creating small android apps for developing hard-skills and help brazilian students in the near future. 
 You can check it here...
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=engsofjvolfe)
