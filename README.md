@@ -8,7 +8,7 @@
 
 ---
 
-<h2>🚀 About me</h2>
+<h2> About me</h2>
 
 I'm a self-taught developer passionate about well-structured systems and ethical solutions.  
 Currently focused on local-first applications using **Flask (Python)** for the backend and **React** for the frontend.  
@@ -18,7 +18,7 @@ Some repositories are small experiments; others — like my gym turnstile system
 
 ---
 
-<h2>🧠 Learning mindset</h2>
+<h2> Learning mindset</h2>
 
 - I aim for precision even while learning.
 - I've built production-ready local systems with complex validation flows.
@@ -26,7 +26,7 @@ Some repositories are small experiments; others — like my gym turnstile system
 
 ---
 
-<h2>🤖 Involvement with AI</h2>
+<h2> Involvement with AI</h2>
 
 AI is my daily thinking partner.  
 I use it to learn deeper, code better, and build responsibly — amplifying our best rather than automating the worst.
@@ -49,24 +49,17 @@ In my projects, I explain this aspect more clearl
 
 ---
 
-<h2>📱 Social Media</h2>
+<h2>Featured project</h2>
 
-<p align="center">
-  <a href="https://www.instagram.com/jeanco_volfe">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-</p>
-
----
-
-<h2>📁 Featured project</h2>
-
-💡 **Gym turnstile system** (users, credits, payments, access) – built with Flask + React.
+**Gym turnstile system** (users, credits, payments, access) – built with Flask + React.
+**TMI** - built with python, PlatformIO
 
 > _Repository is private while under development._
 
+
+
 ---
 
 <p align="center">
-  💾 Feel free to explore the repos and follow the journey!
+  Feel free to explore the repos and follow the journey!
 </p>
